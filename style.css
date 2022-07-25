@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(156, 154, 151) ;
+}
+h1{
+    color: aquamarine;
+}
+.card{
+    margin:auto;
+    color: cornflowerblue;
+    background-color: black;
+    border-radius: 10px;
+    border-color: black;
+    width: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+}  
+button{
+    width: 130px;
+    height: 30px;
+    color: black;
+    background-color: darkslategrey;
+    border-radius: 10px;
+}
+button:hover{
+    color: aliceblue;
+}
